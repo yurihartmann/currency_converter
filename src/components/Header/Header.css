@@ -1,0 +1,17 @@
+.header-div {
+    height: 40vh;
+    background-color: #37ce5b;
+    border-radius: 0 0 25px 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.logo {
+    height: 150px;
+}
+
+h1 {
+    font-size: 72px;
+    margin-left: 20px;
+}
